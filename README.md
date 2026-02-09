@@ -1,4 +1,4 @@
-Ютуб: https://www.youtube.com/playlist?list=PLTucyHptHtTl2rSZqD__QNX3K5TJZrjp3
+Ютуб: https://www.youtube.com/playlist?list=PLTucyHptHtTl2rSZqD__QNX3K5TJZrjp3  
 Гитхаб: https://github.com/CutCodeRu/laravel-beginner-level
 
 ## Установка
